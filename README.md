@@ -1,0 +1,1 @@
+Ionic v1 Sidemenu Template with mandatory login screen
